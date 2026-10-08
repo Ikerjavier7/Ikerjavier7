@@ -1,16 +1,25 @@
-## Hi there 👋
+¡Hola! Soy Iker Javier 👋
 
-<!--
-**Ikerjavier7/Ikerjavier7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero en Software especializado en QA Automation, Análisis de Datos y Diseño & Gestión de Bases de Datos. Me enfoco en garantizar la calidad del software mediante pruebas automatizadas, optimización de consultas SQL y modelado de datos eficiente.
 
-Here are some ideas to get you started:
+🛠️ Tecnologías y Herramientas
+Lenguajes de Programación: Python, SQL, Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bases de Datos & Análisis: MySQL, PostgreSQL, SQLite, Modelado Relacional (3FN), Consultas Avanzadas
+
+QA & Automatización: QA Automation, Pruebas Unitarias, Frameworks de Testing, Automatización de Procesos
+
+Control de Versiones & Entorno: Git, GitHub, VS Code
+
+📌 Sobre mí
+🔭 Actualmente trabajando en: Scripts de automatización de pruebas y canalizaciones de análisis de datos con Python.
+
+🌱 Actualmente aprendiendo: Frameworks avanzados de QA Automation y bibliotecas de análisis de datos en Python.
+
+👯 Buscando colaborar en: Proyectos enfocado en automatización de software, calidad, análisis de datos o diseño de bases de datos.
+
+💬 Pregúntame sobre: Modelado de bases de datos en 3FN, lógica de programación en Python y flujos de trabajo con Git.
+
+📫 Cómo contactarme: delacruzpizaiker@gmail.com
+
+⚡ Dato curioso: Fuera de la pantalla me encuentras en la cancha jugando como lateral o extremo, o compitiendo en League of Legends y EA Sports FC.
